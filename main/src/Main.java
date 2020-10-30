@@ -3,6 +3,10 @@ public class Main {
         System.out.println("First change in Branch1");
 
         MethodOne();
+
+        System.out.println("Branch 3 commit one");
+        System.out.println("Branch 3 commit two");
+        System.out.println("Branch 3 commit three");
     }
 
 
